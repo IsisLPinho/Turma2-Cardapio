@@ -1,0 +1,17 @@
+body {
+    background-image: url("img/fundo.jpg");
+    background-size: 100%;
+}
+
+#fundo {
+    background-color: aliceblue;
+    opacity: 0.5;
+    width: auto;
+    height: 680px;
+}
+header {
+    background-image: url(img/logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100px;
+}
